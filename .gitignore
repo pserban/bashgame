@@ -1,0 +1,3 @@
+# Files and directories ignored by GIT SCM
+# Emacs backup files
+*~
